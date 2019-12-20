@@ -1,0 +1,14 @@
+node_modules/
+# editor
+.vscode/
+.idea
+
+# log files
+*.log
+*.lock
+
+# env
+.env
+.env.*
+# build files
+dist/
